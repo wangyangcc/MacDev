@@ -8,4 +8,4 @@ Mac for Developer
 您也可以关注我的[新浪微博](http://weibo.com/wangyangc)。 
 
 ##工具
-- [常用工具]()
+- [常用工具](https://github.com/wangyangcc/MacDev/blob/master/apps.md)
