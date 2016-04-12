@@ -8,6 +8,7 @@
 - [爱壁纸](http://www.lovebizhi.com/mac.html)
 - [LessDJ](http://ixhan.com/project/lessdj/)
 - [阿里旺旺](https://www.taobao.com/go/market/seller/aliclient/ww/index.php)
+- [搜狗输入法](http://pinyin.sogou.com/mac/)
 
 ###系统工具
 - [EverNote](https://www.yinxiang.com/evernote/guide/mac/)
