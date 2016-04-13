@@ -9,3 +9,6 @@ Mac for Developer
 
 ##工具
 - [常用工具](https://github.com/wangyangcc/MacDev/blob/master/apps.md)
+
+##一些网址
+- [各种警告处理列表](http://fuckingclangwarnings.com)
