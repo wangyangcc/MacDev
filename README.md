@@ -13,7 +13,7 @@ Mac for Developer
 ##一些网址
 - [各种警告处理列表](http://fuckingclangwarnings.com)
 - [xCode Snippet Edit](http://cocoaholic.com/snippet_edit/)
-
+- [在线视频压缩](http://www.clipchamp.com)
 
 ##Xcode插件
 - [Xtrace](https://github.com/johnno1962/Xtrace)(iOS 开发中一个强大的调试框架，能详细打印出一个某个方法被调用的堆栈，方便调试时定位问题)[教你用Xtrace读懂Mantle源码](http://ios.jobbole.com/84471/)
