@@ -24,6 +24,7 @@
 - [R-Name](http://www.macupdate.com/app/mac/12259/r-name)（文件名批量管理）
 - [RAR Extractor Free](https://itunes.apple.com/cn/app/rar-extractor-free/id646295438?mt=12)（解压缩）
 - [迅雷](http://mac.xunlei.com)
+- [OmniDiskSweeperDelete](https://www.omnigroup.com/more/)(mac 查看磁盘工具占用的好工具)
 
 ###开发工具
 
