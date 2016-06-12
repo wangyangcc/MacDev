@@ -18,3 +18,11 @@ Mac for Developer
 ##Xcode插件
 - [Xtrace](https://github.com/johnno1962/Xtrace)(iOS 开发中一个强大的调试框架，能详细打印出一个某个方法被调用的堆栈，方便调试时定位问题)[教你用Xtrace读懂Mantle源码](http://ios.jobbole.com/84471/)
 - [Xcode插件管理工具Alcatraz](http://alcatraz.io)
+
+##Safari 插件
+- [Adblock Plus](https://safari-extensions.apple.com/details/?id=org.adblockplus.adblockplussafari-GRYYZR985A)(屏蔽广告的插件)
+- [Evernote Web Clipper](https://safari-extensions.apple.com/details/?id=com.evernote.safari.clipper-Q79WDW8YH9)(印象笔记的扩展，在浏览器中直接使用印象笔记)
+- [YouKu HTML5 Player](http://zythum.sinaapp.com/youkuhtml5playerbookmark/)(国内网站观看视频 h5替换flash播放)
+
+查看Safari官方全部插件请戳[这里](https://safari-extensions.apple.com)
+10款Safari for Mac扩展插件推荐戳[这里](http://zythum.sinaapp.com/youkuhtml5playerbookmark/)
